@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Emily Orama
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses the javascript language in order to show outputs of calculations 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://emilyorama.github.io/lesson4_javascript1/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to type expense cataegories in index.html to correctly present the calculations on the webpage
+2. Leanred how to assign category values to variables in javascript language 
+3. Learned the purpose of the clearForm method: deletes the expense values that the user typed and the calculation results from the page.
 
 
 
